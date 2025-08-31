@@ -22,3 +22,6 @@ func main() {
 	log.Fatal(http.ListenAndServe(":8081", nil))
 
 }
+
+
+// Firstly Setup the docker after that excecute the code
